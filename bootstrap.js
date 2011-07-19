@@ -99,3 +99,4 @@ function uninstall(aData, aReason)
 	_gLoader.uninstall(_reasonToString(aReason));
 	_gLoader = void(0);
 }
+
